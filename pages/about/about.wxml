@@ -1,3 +1,5 @@
 <!--pages/about.wxml-->
 <text>pages/about.wxml</text>
 <button>hhhh</button>
+
+<view>知识点2</view>
