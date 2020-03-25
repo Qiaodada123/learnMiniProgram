@@ -1,3 +1,6 @@
 <!--pages/about.wxml-->
 <text>pages/about.wxml</text>
 <button>hhhh</button>
+
+
+<view>知识点1：打上tag</view>
